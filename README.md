@@ -7,12 +7,12 @@ We've seen how the Yelp API works and how to create basic visualizations using F
 Objectives
 You will be able to:
 
-1.Analyze data to identify trends in the box office performance of movies
-2.Offer actionable insights and recommendations to guide Microsoft in their venture into the movie industry
-3.Utilize various datasets to perform exploratory data analysis
-4.Ensure that the data used for analysis is accurate, reliable, and well-structured
-5.Combine relevant datasets to create a unified dataset that encompasses essential information about movies
-6.Equip Microsoft with the necessary information to make informed decisions about their movie production endeavors, ultimately aiming for success in the film industry.
+1. Analyze data to identify trends in the box office performance of movies
+2. Offer actionable insights and recommendations to guide Microsoft in their venture into the movie industry
+3. Utilize various datasets to perform exploratory data analysis
+4. Ensure that the data used for analysis is accurate, reliable, and well-structured
+5. Combine relevant datasets to create a unified dataset that encompasses essential information about movies
+6. Equip Microsoft with the necessary information to make informed decisions about their movie production endeavors, ultimately aiming for success in the film industry.
 
 Datasets
 We have selected four datasets to conduct a comprehensive analysis for Microsoft's new movie studio. Each dataset provides unique and valuable information that, when combined, will offer a holistic understanding of the factors influencing a movie's success at the box office.
