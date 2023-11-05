@@ -2,6 +2,7 @@
 # Phase 1 MICROSOFT MOVIE STUDIO ANALYSIS
 
 Introduction
+
 Microsoft is venturing into the world of original video content creation and aims to establish a new movie studio. The goal of this project is to conduct exploratory data analysis (EDA) to understand what types of films are currently thriving at the box office. By analyzing ratings data from IMDb, we aim to provide actionable insights to guide Microsoft's new movie studio in making informed decisions regarding the types of films they should create.
 
 Objectives
