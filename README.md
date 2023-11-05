@@ -2,7 +2,7 @@
 # Phase 1 MICROSOFT MOVIE STUDIO ANALYSIS
 
 Introduction
-We've seen how the Yelp API works and how to create basic visualizations using Folium. It's time to put those skills to work in order to create a working map! Taking things a step further, you'll also independently explore how to perform pagination in order to retrieve a full results set from the Yelp API.
+Microsoft is venturing into the world of original video content creation and aims to establish a new movie studio. The goal of this project is to conduct exploratory data analysis (EDA) to understand what types of films are currently thriving at the box office. By analyzing ratings data from IMDb, we aim to provide actionable insights to guide Microsoft's new movie studio in making informed decisions regarding the types of films they should create.
 
 Objectives
 You will be able to:
